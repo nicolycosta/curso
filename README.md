@@ -3,7 +3,7 @@ Vivemos em um mundo onde tudo acontece em algum lugar e em algum momento. Muitos
 A análise espaço-temporal surge exatamente para isso: entender como padrões se comportam ao longo do tempo e do espaço, identificando não apenas o que aconteceu, mas também onde e quando.
 
 O que é Análise Espaço-Temporal?
-É a integração entre duas dimensões de dados:
+É a integração entre duas dimensões de dados:\
 •	A dimensão espacial (posição, localização, vizinhança);
 •	A dimensão temporal (sequência, tendência, sazonalidade).
 
