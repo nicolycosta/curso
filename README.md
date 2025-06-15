@@ -14,10 +14,10 @@ Muitos fenômenos complexos não podem ser explicados apenas olhando o tempo ou 
 •	Melhorar previsões, incorporando relações de vizinhança;
 
 Aplicações comuns:\
-•	Saúde pública: rastreamento de epidemias e surtos.\
-•	Criminalidade: mapeamento de delitos por região e período.\
-•	Clima e meio ambiente: evolução de queimadas, temperatura, chuvas.\
-•	Mobilidade urbana: fluxo de veículos, acidentes, transporte público.\
+•	Saúde pública: rastreamento de epidemias e surtos.
+•	Criminalidade: mapeamento de delitos por região e período.
+•	Clima e meio ambiente: evolução de queimadas, temperatura, chuvas.
+•	Mobilidade urbana: fluxo de veículos, acidentes, transporte público.
 •	Economia e mercado: comportamento de vendas por localidade.
 
 Como o curso vai te ajudar\
