@@ -20,9 +20,17 @@ Aplicações comuns:\
 •	Mobilidade urbana: fluxo de veículos, acidentes, transporte público.\
 •	Economia e mercado: comportamento de vendas por localidade.
 
+
 Como o curso vai te ajudar:\
 Este curso foi desenhado para te oferecer as ferramentas necessárias para:
 1.	Ler, limpar e manipular dados espaciais e temporais;
 2.	Explorar padrões visuais e estatísticos em mapas e gráficos;
 3.	Aplicar técnicas de autocorrelação espacial, como o Índice de Moran e LISA, para identificar agrupamentos locais e dependência espacial entre regiões.
 4.	Construir modelos que aproveitem a estrutura espaço-temporal para prever e entender fenômenos reais;
+
+
+## 📚 Capítulos
+
+- [Capítulo 1 – Fundamentos de Python](./cap1/)
+#- [Capítulo 2 – Visualização de Dados](./cap2/)
+#- [Capítulo 3 – Modelagem Espacial](./cap3/)
