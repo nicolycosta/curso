@@ -1,3 +1,6 @@
 title: Curso de Análise Espaço-Temporal
+baseurl: "/curso" # isso é importante!
 theme: jekyll-theme-cayman
 description: Entenda como o tempo e o espaço interagem em fenômenos complexos.
+markdown: kramdown
+
