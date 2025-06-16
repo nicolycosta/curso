@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Capítulo 1 - Fundamentos de Python"
+permalink: /cap1/
 ---
 
 # Capítulo 1: Fundamentos de Python
